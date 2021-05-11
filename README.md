@@ -1,2 +1,3 @@
 # the-webpage-of-Leon-Leif
-This is the code of the webpage of 75fp3vtegma6soqm.onion 
+This is the code of the webpage of our webpage.
+We are two students, that are building our own webpage to present our projects.
